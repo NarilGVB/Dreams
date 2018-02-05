@@ -6,6 +6,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/3rdParty/
 
 # VS/Rider/MD/Consulo solution and project files
 ExportedObj/
